@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainWindow.qml</file>
+        <file>RecorderView.qml</file>
+        <file>EditorView.qml</file>
+        <file>ScreenshotEditor.qml</file>
+        <file>WorkspaceView.qml</file>
+        <file>components/MediaCard.qml</file>
+        <file>components/TimelineRuler.qml</file>
+        <file>components/TimelineTrack.qml</file>
+        <file>components/Playhead.qml</file>
+        <file>components/RegionSelector.qml</file>
+        <file>components/CommandPalette.qml</file>
+        <file>components/UserProfileBadge.qml</file>
+        <file>components/ExportQuotaModal.qml</file>
+        <file>components/EmailAuthModal.qml</file>
+        <file>components/AdminDashboard.qml</file>
+        <file>components/media/BinTreeView.qml</file>
+        <file>components/media/AssetGridView.qml</file>
+        <file>components/media/MediaPoolPanel.qml</file>
+    </qresource>
+</RCC>

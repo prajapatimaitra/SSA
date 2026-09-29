@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build directories
+build/
+bin/
+out/
+vcpkg_installed/
+
+# Binary executables
+test_ax
+test_cursor
+test_cursor_map
+
+# Local databases and temporary files
+*.db
+*.sqlite
+*.sqlite3
+.recordings/
+.screenshots/
